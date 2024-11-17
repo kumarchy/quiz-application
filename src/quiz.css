@@ -1,0 +1,9 @@
+.container{
+  background-color: azure;
+  width: 80%;
+}
+
+.header{
+  background-color: rgb(198, 239, 239);
+  padding: 10px;
+}
